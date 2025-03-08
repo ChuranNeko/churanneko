@@ -9,7 +9,7 @@
 ## 🛠 开源项目
 暂时没有()
 ## 📊 GitHub 活跃度
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=churanocean&show_icons=true&count_private=true&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=churanneko&show_icons=true&count_private=true&hide_title=true)
 
 ## 🔗 社交媒体
 - [Bilibili](https://space.bilibili.com/443211409)
