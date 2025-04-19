@@ -3,17 +3,17 @@
 欢迎访问我的 GitHub 主页
 
 ## 🚀 技能
-
-- 📫 联系我：[2796331258@qq.com](mailto:2796331258@qq.com)
-
+睡觉sleep:(
+- 📫 联系我：[churanneko@qq.com](mailto:churanneko@qq.com)
+- 📫 另外一个邮箱：[churanneko@gmail.com](mailto:churanneko@gmail.com )
 ## 🛠 开源项目
-暂时没有()
+无
 ## 📊 GitHub 活跃度
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=churanneko&show_icons=true&count_private=true&hide_title=true)
 
 ## 🔗 社交媒体
 - [Bilibili](https://space.bilibili.com/443211409)
-- [博客](https://www.churanneko.com)
 - [Twitter](https://twitter.com/ocean_bili)
-- [Neko论坛](https://bbs.churanneko.com)
+- [博客](https://blog.churanneko.com)(暂时不可用)
+- [初然的状态面板](https://status.churanneko.com/)）
 
