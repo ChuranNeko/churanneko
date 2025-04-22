@@ -15,5 +15,4 @@
 - [Bilibili](https://space.bilibili.com/443211409)
 - [Twitter](https://twitter.com/ocean_bili)
 - [博客](https://blog.churanneko.com)(暂时不可用)
-- [初然的状态面板](https://status.churanneko.com/)）
 
