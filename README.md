@@ -24,9 +24,6 @@
 ### [churanneko](https://github.com/ChuranNeko/churanneko)
 我的个人主页项目，展示了我的博客和其他在线资源。
 
-### [secret.churanneko.com](https://github.com/ChuranNeko/secret.churanneko.com)
-站点 secret.churanneko.com 的缓存资源。
-
 ### [churanneko.github.io](https://github.com/ChuranNeko/churanneko.github.io)
 体验边缘 AI，免费访问 DeepSeek R1 模型。
 
@@ -60,5 +57,3 @@
 > 🍵 “不一定要很厉害，才能开始；但要开始，才能变厉害。”
 
 ---
-
-如果您有任何建议或想法，欢迎通过上述联系方式与我交流！ 
