@@ -15,20 +15,8 @@
 
 ## 🛠 我的项目
 
-### [gginx](https://github.com/ChuranNeko/gginx)
-基于 Go 的反向代理方案，旨在提供高性能的代理服务。
-
 ### [Quick-Site-Deployment](https://github.com/ChuranNeko/Quick-Site-Deployment)
 一个简单而强大的自动化脚本，帮助小白用户快速部署带有 HTTPS 的网站。
-
-### [churanneko](https://github.com/ChuranNeko/churanneko)
-我的个人主页项目，展示了我的博客和其他在线资源。
-
-### [churanneko.github.io](https://github.com/ChuranNeko/churanneko.github.io)
-体验边缘 AI，免费访问 DeepSeek R1 模型。
-
-### [nekolook.com](https://github.com/ChuranNeko/nekolook.com)
-一个正在筹备中的项目，敬请期待！
 
 ---
 
