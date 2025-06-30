@@ -33,6 +33,15 @@
 
 ---
 
+## 🌐 我的域名
+
+- 🏠 churanneko.com — 个人长域名
+- 🌸 crneko.top — 作为个人短域名
+- 🧪 churannas.site
+- 🎬 nekolook.com
+
+---
+
 ## 🔗 社交媒体
 
 - 🎥 [Bilibili](https://space.bilibili.com/443211409)
