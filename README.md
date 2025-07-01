@@ -13,13 +13,6 @@
 
 ---
 
-## 🛠 我的项目
-
-### [Quick-Site-Deployment](https://github.com/ChuranNeko/Quick-Site-Deployment)
-一个简单而强大的自动化脚本，帮助小白用户快速部署带有 HTTPS 的网站。
-
----
-
 ## 📬 联系方式
 
 - 📫 主邮箱：[churanneko@qq.com](mailto:churanneko@qq.com)
