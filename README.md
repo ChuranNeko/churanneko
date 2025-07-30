@@ -1,6 +1,6 @@
 # 🌸 你好，我是 初然 👋
 
-欢迎来到我的 GitHub 主页，一起探索代码与生活的边界。
+欢迎来到我的 GitHub 主页，目前没有什么太想做的项目。
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ChuranNeko)
 
@@ -40,6 +40,4 @@
 - 🎥 [Bilibili](https://space.bilibili.com/443211409)
 - 🐦 [Twitter](https://twitter.com/ocean_bili)
 - 📝 [博客](https://blog.churanneko.com)（目前维护中）
-- 💬 [Neko论坛](https://bbs.churanneko.com)
-
 ---
