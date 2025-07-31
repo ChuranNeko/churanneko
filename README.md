@@ -39,5 +39,4 @@
 
 - 🎥 [Bilibili](https://space.bilibili.com/443211409)
 - 🐦 [Twitter](https://twitter.com/ocean_bili)
-- 📝 [博客](https://blog.churanneko.com)（目前维护中）
 ---
