@@ -1,9 +1,9 @@
-# 🌸 你好，我是 初然 👋
-
+### Hi！
 欢迎来到我的 GitHub 主页，目前没有什么太想做的项目。
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ChuranNeko)
+![ChuranNeko's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChuranNeko&show_icons=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChuranNeko&layout=compact)
 ---
 
 ## 🚀 技能（Skill? 主要是睡觉...）
