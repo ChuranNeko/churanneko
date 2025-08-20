@@ -27,6 +27,7 @@
 - 🐦 [Twitter](https://twitter.com/ocean_bili)
 ---
 
+<details> <summary>点击展开/折叠内容</summary>
 ### Tech Stack
 
 #### 🧠 Programming Languages:
@@ -52,3 +53,5 @@
 
 #### 🎮 Others:
 ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![](https://img.shields.io/badge/Minecraft-3C9A1A?style=flat-square&logo=minecraft&logoColor=white)
+</details>
+
