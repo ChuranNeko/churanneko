@@ -12,6 +12,8 @@
 
 ---
 
+<details> <summary>点击展开/折叠内容</summary>
+
 ## 🌐 我的域名
 
 - 🏠 churanneko.com(作为个人长域名使用)
@@ -25,9 +27,8 @@
 
 - 🎥 [Bilibili](https://space.bilibili.com/443211409)
 - 🐦 [Twitter](https://twitter.com/ocean_bili)
----
 
-<details> <summary>点击展开/折叠内容</summary>
+---
   
 ### Tech Stack
 
