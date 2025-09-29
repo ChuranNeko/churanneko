@@ -1,5 +1,5 @@
 ### Hi！
-欢迎来到我的 GitHub 主页，目前没有什么太想做的项目。
+欢迎来到我的 GitHub 主页，目前想学习一些技术栈并与我们的团队完成名为一个NekoBot的聊天机器人项目。
 
 ![ChuranNeko's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChuranNeko&show_icons=true)
 
@@ -19,7 +19,7 @@
 - 🏠 churanneko.com(作为个人长域名使用)
 - 🌸 crneko.top(作为个人短域名)
 - 🎬 nekolook.com
-- 🧪 churannas.site(2025-10月抛弃)
+- 🧪 nekobot.dev (给猫猫们提供我们的项目Nekobot的一些文档等)
 
 ---
 
