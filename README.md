@@ -8,7 +8,6 @@
 ## 📬 联系方式
 
 - 📫 主邮箱：[churanneko@qq.com](mailto:churanneko@qq.com)
-- 📫 备用邮箱：[churanneko@gmail.com](mailto:churanneko@gmail.com)
 
 ---
 
