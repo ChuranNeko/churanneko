@@ -1,7 +1,7 @@
 ### Hi！
 欢迎来到我的 GitHub 主页，目前想学习一些技术栈并与我们的团队完成名为一个NekoBot的聊天机器人项目。
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=ChuranNeko8&show_icons=true&count_private=true&include_all_commits=true&line_height=28&hide_rank=false&theme=dark&bg_color=DEG,1E90FF,87CEEB&text_color=E6E6FA&icon_color=FFFACD)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=ChuranNeko&show_icons=true&count_private=true&include_all_commits=true&line_height=28&hide_rank=false&theme=dark&bg_color=DEG,1E90FF,87CEEB&text_color=E6E6FA&icon_color=FFFACD)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChuranNeko&layout=compact)
 ---
