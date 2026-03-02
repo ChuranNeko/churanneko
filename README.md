@@ -33,7 +33,7 @@
 ---
 ## 📬 联系方式
 
-- 📫 邮箱：[churanneko@qq.com](mailto:churanneko@qq.com)
+- 📫 邮箱：[churanneko@Outlook.com](mailto:churanneko@Outlook.com)
 
 ## 📬小群体
 
