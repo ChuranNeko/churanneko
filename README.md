@@ -1,8 +1,4 @@
 <p align="center">
-    <!-- https://github.com/kyechan99/capsule-render -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20World&section=header&reversal=false&fontSize=90&fontAlignY=40&animation=twinkling&desc=I%20am%20ChuranNeko&descSize=30&descAlignY=60" alt="Hello World" title="Hello World"/>
-</p>
-<p align="center">
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
     <img width="800" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&width=435&lines=Welcome+to+my+Github+profile+page;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84Github%E4%B8%BB%E9%A1%B5" alt="Hello World" title="Hello World"/>
 </p>
@@ -17,10 +13,7 @@
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=ChuranNeko&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
 </p>
-<p align="center">
-    <!-- https://github.com/LelouchFR/skill-icons -->
-    <img width="800" height="32" src="https://go-skill-icons.vercel.app/api/icons?i=py,html,css,catppuccin&titles=true" alt="Skill Icons" title="Skill Icons">
-</p>
+
 <p align="center">
     <!-- https://github.com/badges/shields --> 
     <a href="https://github.com/ChuranNeko"><img src="https://img.shields.io/badge/GitHub-ChuranNeko-blue?logo=github" alt="GitHub" title="GitHub" /></a>
@@ -124,3 +117,5 @@
 ---
 
 </details>
+
+> 一切都是因为好奇，所以想要知道那些未曾知晓的事物，虽然不太精通，但仍在向前
