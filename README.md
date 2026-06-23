@@ -120,5 +120,5 @@
 
 
 > 好想学好多好多知识，想考上一个很好很好的大学，再谈一个我喜欢她 她又喜欢我，同时也很爱惜我的那种女孩子。
-> 
+
 > I wish there was a girl who could take me.
